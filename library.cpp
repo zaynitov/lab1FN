@@ -110,7 +110,7 @@ int main() {
 
     double value = doubleX;
 
-    double sumWhile = 1;
+    double sumWhile = 2;
     double sumFor = 1;
     double sumDoWhile = 1;
 
